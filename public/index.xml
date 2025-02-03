@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New one</title>
-      <link>//localhost:1313/posts/posts/new.md/</link>
+      <link>/posts/posts/new.md/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/posts/new.md/</guid>
+      <guid>/posts/posts/new.md/</guid>
       <description>&lt;p&gt;THis is the new file&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202025-02-03%20at%201.11.11%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-02-03%20at%201.11.11%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;THis is the new file&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202025-02-03%20at%201.11.11%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-02-03%20at%201.11.11%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/posts/posts/posts/</link>
+      <link>/posts/posts/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/posts/posts/</guid>
+      <guid>/posts/posts/posts/</guid>
       <description>&lt;p&gt;THiks is the test for the post&lt;/p&gt;</description>
       <content>&lt;p&gt;THiks is the test for the post&lt;/p&gt;
 </content>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Okay CHeking</title>
-      <link>//localhost:1313/posts/posts/blog.md/</link>
+      <link>/posts/posts/blog.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/posts/blog.md/</guid>
+      <guid>/posts/posts/blog.md/</guid>
       <description>&lt;p&gt;This is just a md file .&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;yhis is not showing now&lt;/p&gt;&lt;/blockquote&gt;
@@ -44,7 +44,7 @@
 &lt;li&gt;I dont know why&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;where-are-you-&#34;&gt;where are you ?&lt;/h1&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202025-02-03%20at%201.09.25%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-02-03%20at%201.09.25%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;This is just a md file .&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;yhis is not showing now&lt;/p&gt;&lt;/blockquote&gt;
@@ -52,7 +52,7 @@
 &lt;li&gt;I dont know why&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;where-are-you-&#34;&gt;where are you ?&lt;/h1&gt;
-&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Screenshot%202025-02-03%20at%201.09.25%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-02-03%20at%201.09.25%20AM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
